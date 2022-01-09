@@ -31,8 +31,8 @@ const Footer = () => {
   const render = (data: DataProps) => {
     return (
       <FooterWrapper>
-        &copy; {split(data.site.buildTime, '.')[2]} by Majid Hajian. All rights reserved. <br />{' '}
-        <a href="https://github.com/mhadaily/gatsby-starter-typescirpt-power-blog">
+        &copy; {split(data.site.buildTime, '.')[2]} by Chandula Janith. All rights reserved. <br />{' '}
+        <a href="https://github.com/RedEdge967/Gatsby-Blog">
           GitHub Repository{' '}
         </a>{' '}
         <br />
