@@ -67,9 +67,9 @@ export default ({ data }: PageProps) => {
               <img src={config.siteLogo} alt={config.siteTitle} />
               <h1>
                 Hi. I am <br />
-                Majid Hajian
+                Chandula Janith
               </h1>
-              <p>I write about Dart, Flutter, JavaScript, Angular, React, and ...</p>
+              <p>I write about Programming, Tech, Tips, Tricks and more...</p>
               <Link to="/contact">
                 <Button big={true}>
                   <svg
@@ -102,10 +102,10 @@ export default ({ data }: PageProps) => {
             <HomepageContent>
               <h2>About Me</h2>
               <p>
-                Though I am a results-driven softiware architect and developer by day who have
-                converted inactive designs to fully interactive, well-developed, accessible and
-                standards-based user interfaces. I am completely enthusiast and passionate about
-                Flutter/Dart and JavaScript world.
+                Though I am a 12 years old web dev lover from Sri Lanka.
+                I work with HTML5, CSS3, JavaScript, Svelte, TypeScript and more..
+                Check out my Projects in <a href="https://github.com/RedEdge967">Github</a>
+                and Check out my website <a href="https://rededge967.github.io">here.</a>
               </p>
               <hr />
               <h2>Latest Blog</h2>
