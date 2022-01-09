@@ -15,7 +15,7 @@ export default () => {
       </Header>
       <Wrapper>
         <Content>
-          <p>Super cool intro text to get people contacting me!</p>
+          <p>If you have any questions reguarding my projects or you just wanna say hi, drop a message to janithc967@gmail.com</p>
           <a href="https://github.com/RedEdge967">
             <Button big={true}>
               <svg
