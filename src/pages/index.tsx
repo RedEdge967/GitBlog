@@ -104,7 +104,7 @@ export default ({ data }: PageProps) => {
               <p>
                 Though I am a 12 years old web dev lover from Sri Lanka.
                 I work with HTML5, CSS3, JavaScript, Svelte, TypeScript and more..
-                Check out my Projects in <a href="https://github.com/RedEdge967">Github</a>
+                Check out my Projects in <a href="https://github.com/RedEdge967">Github </a>
                 and Check out my website <a href="https://rededge967.github.io">here.</a>
               </p>
               <hr />
