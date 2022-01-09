@@ -10,7 +10,7 @@ export default {
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
   siteDescription: 'Typescript Power Blog with big typography made by Chandula Janith (RedEdge967)', // Your site description
   author: 'Chandula Janith', // Author for schemaORGJSONLD
-  siteLogo: '/assets/logo.png', // Image for schemaORGJSONLD
+  siteLogo: '/assets/favicon.png', // Image for schemaORGJSONLD
 
   userGithub: 'RedEdge967',
   ogLanguage: 'en_US',
