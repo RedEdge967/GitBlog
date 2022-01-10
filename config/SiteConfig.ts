@@ -7,8 +7,8 @@ export default {
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   defaultBg: '/assets/bg.png', // default post background header
-  favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
-  siteDescription: 'Typescript Power Blog with big typography made by Chandula Janith (RedEdge967)', // Your site description
+  favicon: 'src/rounded.png', // Your image for favicons. You can find it in the /src folder
+  siteDescription: 'Typescript GitBlog with big typography made by Chandula Janith (RedEdge967)', // Your site description
   author: 'Chandula Janith', // Author for schemaORGJSONLD
   siteLogo: '/assets/favicon.png', // Image for schemaORGJSONLD
 
