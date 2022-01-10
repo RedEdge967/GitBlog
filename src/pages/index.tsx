@@ -69,7 +69,7 @@ export default ({ data }: PageProps) => {
                 Hi. I am <br />
                 Chandula Janith
               </h1>
-              <p>I write about Programming, Tech, Tips, Tricks and more...</p>
+              <p>I write about Programming, Movies, Tech, Tips, Tricks and more...</p>
               <Link to="/contact">
                 <Button big={true}>
                   <svg
