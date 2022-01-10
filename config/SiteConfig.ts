@@ -6,7 +6,7 @@ export default {
   siteUrl: 'https://gatsby-gitblog.vercel.app', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
-  defaultBg: '/assets/bg.png', // default post background header
+  defaultBg: '/assets/bg/4.png', // default post background header
   favicon: 'src/rounded.png', // Your image for favicons. You can find it in the /src folder
   siteDescription: 'Typescript GitBlog with big typography made by Chandula Janith (RedEdge967)', // Your site description
   author: 'Chandula Janith', // Author for schemaORGJSONLD
