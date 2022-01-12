@@ -19,4 +19,5 @@ If you have a unsupported device and you want to run Windows 11 operating system
 - [Github Repo](https://github.com/RedEdge967/win11-web)
 - [Site link](https://win11web.vercel.app)
 
-> #### Don't forget to give my [win11-web](https://win11web.vercel.app) repo and fork it to make your own win11 web.
+> Don't forget to give my [win11-web](https://win11web.vercel.app) repo a star and fork it to make your own win11 web.
+> If you have any issues reguarding this win11-web project, open an issue in [here](https://github.com/RedEdge967/win11-web/issues/new)
