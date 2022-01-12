@@ -8,8 +8,9 @@
   - Home page
   - Contact page
   - Blog page
+  - Blog Posts
 - Dark/light toggle
-- PC/Mobile responsible
+- PC/Mobile responsive
 
 ## Can I contribute?
 - Sure, Open an Issue, point out errors and what not? wanna fix something yourself, you are welcome to open a PR and I appreciate it.
