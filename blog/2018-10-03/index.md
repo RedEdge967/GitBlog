@@ -1,19 +1,40 @@
 ---
-date: "2018-01-03"
-title: "A title must be meaningful"
+date: "2022-01-14"
+title: "MacOS Big Sur In CSS!"
 category: "Coding"
-tags: ['Technology', 'graphql']
+tags: ['Technology', 'os', 'macos']
 banner: "/assets/bg/2.jpg"
 ---
 
-Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. "Fix, Schwyz! " quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich. Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung. Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys Pferd Bim.
+Hello Everyone! Today I am going to tell you about my new macos big sur web experience written in CSS (cascading style sheet).
+I made a MacOS big sur web in CSS, HTML and JavaScript. You can see the source code in my github account.
 
-Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. "Fix, Schwyz! " quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich. Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung. Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. "Fix, Schwyz! " quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.
+### Features
+- Time (Seconds also can be viewed)
+- Finder UI
+- Day and Night wallpapers (after 6pm, it turns in to night wallpaper)
+- Calender
+- Notification banner
+- Settings UI
+- Terminal
+- Apple Menu UI
+- A Messenger app UI
+- Right click (Only Refresh is available)
+- Lock screen
+- Log out/in user
+- App Search
 
-## Zwei flinke Boxer
+### Screenshots
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture50.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture51.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture52.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture53.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture54.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture55.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture56.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture57.PNG)
+![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture58.PNG)
 
-Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung. Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark.
-
-> "Fix, Schwyz! " quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich. Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung. Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
-
-Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. "Fix, Schwyz! " quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich. Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung. Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. "Fix, Schwyz! " quäkt Jürgen blöd vom Paß.
+### Links
+- [Github Repo](https://github.com/RedEdge967/MacOS-CSS)
+- [Project link](https://macos-css.vercel.app)
