@@ -25,15 +25,15 @@ I made a MacOS big sur web in CSS, HTML and JavaScript. You can see the source c
 - App Search
 
 ### Screenshots
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture50.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture51.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture52.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture53.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture54.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture55.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture56.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture57.PNG)
-![](https://github.com/RedEdge967/Gatsby-Blog/blob/master/blog/2018-10-03/img/Capture58.PNG)
+![](/img/Capture50.PNG)
+![](/img/Capture51.PNG)
+![](/img/Capture52.PNG)
+![](/img/Capture53.PNG)
+![](/img/Capture54.PNG)
+![](/img/Capture55.PNG)
+![](/img/Capture56.PNG)
+![](/img/Capture57.PNG)
+![](/img/Capture58.PNG)
 
 ### Links
 - [Github Repo](https://github.com/RedEdge967/MacOS-CSS)
