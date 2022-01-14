@@ -8,6 +8,11 @@ banner: "/assets/bg/2.jpg"
 
 Hello Everyone! Today I am going to tell you about my new macos big sur web experience written in CSS (cascading style sheet).
 I made a MacOS big sur web in CSS, HTML and JavaScript. You can see the source code in my github account.
+It is a web experience of macos big sur operating system made using basic technologies. If you aren't a IMac user and you
+want to experience macos big sur, you can go to https://macos-css.vercel.app to view the project.
+
+> If you have any questions reguarding this macos web projects, open a issue [here](https://github.com/RedEdge967/MacOS-CSS/issues/new) on github.
+> And don't forget to give this projects a star and fork it to make a upgraded version of macos big sur web experience.
 
 ### Features
 - Time (Seconds also can be viewed)
@@ -23,17 +28,6 @@ I made a MacOS big sur web in CSS, HTML and JavaScript. You can see the source c
 - Lock screen
 - Log out/in user
 - App Search
-
-### Screenshots
-![](/img/Capture50.PNG)
-![](/img/Capture51.PNG)
-![](/img/Capture52.PNG)
-![](/img/Capture53.PNG)
-![](/img/Capture54.PNG)
-![](/img/Capture55.PNG)
-![](/img/Capture56.PNG)
-![](/img/Capture57.PNG)
-![](/img/Capture58.PNG)
 
 ### Links
 - [Github Repo](https://github.com/RedEdge967/MacOS-CSS)
