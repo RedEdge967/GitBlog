@@ -1,5 +1,5 @@
-# Gatsby-Blog
-- Gatsby-Blog is my personal blog created with Gatsby, TypeScript, JavaScript, CSS3, SCSS
+# GitBlog
+- GitBlog is my personal blog created with Gatsby, TypeScript, JavaScript, CSS3, SCSS
 
 ## [Live demo](https://gitblog.vercel.app)
 
