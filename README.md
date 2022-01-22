@@ -1,7 +1,7 @@
 # Gatsby-Blog
 - Gatsby-Blog is my personal blog created with Gatsby, TypeScript, JavaScript, CSS3, SCSS
 
-## [Live demo](https://gatsby-gitblog.vercel.app)
+## [Live demo](https://gitblog.vercel.app)
 
 ## Preview
 |Dark Mode|Light Mode|
