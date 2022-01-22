@@ -13,15 +13,19 @@ when you create a readme to your profile, it is appearing in your profile page i
 To start creating a readme for yourself, follow the below steps.
 
 1. Creating a new repo
+
 when you are creating a repo for yourself, remember to name it using your `Username`. As a example if your username is `RedEdge967`, you must create a repo called `RedEdge967`.
 
 2. Adding a `Readme.MD` file
+
 Then click `create new file` in the repo and name it as `Readme.MD`. now the readme file is created.
 
 3. Writing in Readme
+
 When you are writing in the readme, you must write it in Markdown(md). markdown is not very hard. it is similar to normal txt file. and you can use html5 inside markdown code also. so start writing about you in the readme.
 
 4. Adding images, videos, emojis and etc.
+
 if you want to add any images, videos or emojis read below instructions
 
 #### Adding images and videos
