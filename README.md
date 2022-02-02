@@ -1,3 +1,4 @@
+> ## Notice: I am no longer using this template as my personal blog, but you can use this template as your blog...
 # GitBlog
 - GitBlog is my personal blog created with Gatsby, TypeScript, JavaScript, CSS3, SCSS
 
